@@ -1,7 +1,7 @@
 # Little Lemon Booking Website 🍋
 
 ## Live Website
-https://meta-frontend-capstone-little-lemon-ansskt4fh.vercel.app
+https://little-lemon-booking-website-rust.vercel.app
 
 ## Project Description
 This project was created during Meta's Coursera Front-End Development course. This website was the culmination of the Front-End Development capstone.
@@ -21,7 +21,7 @@ Please note: the only functionality working on this website besides the design i
 ## Screenshots
 Here is a screenshot of the page.
 
-![little lemon website table booking](/public/assets/github_cover.png)
+![little lemon website table booking](/public/assets/home.png)
 
 ## Available Scripts
 
